@@ -6,7 +6,7 @@
 
     <groupId>github.tobsef</groupId>
     <artifactId>hello-maven</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.1</version>
 
     <build>
         <plugins>
@@ -39,7 +39,7 @@
         <repository>
             <id>github</id>
             <name>GitHub TobseF Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/TobseF/HelloMaven</url>
+            <url>https://maven.pkg.github.com/</url>
         </repository>
     </distributionManagement>
 
