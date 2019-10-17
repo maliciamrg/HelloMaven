@@ -30,7 +30,7 @@
                     <includes>
                         <include>**/*</include>
                     </includes>
-                    <repositoryName>TobseF</repositoryName>
+                    <repositoryName>hallo-maven</repositoryName>
                     <repositoryOwner>TobseF</repositoryOwner>
                 </configuration>
                 <executions>
