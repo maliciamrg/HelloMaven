@@ -1,4 +1,4 @@
-package cn.pasteme.demo;
+package github.tobsef.demo;
 
 public class HelloMaven {
     public static void run() {
