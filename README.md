@@ -7,7 +7,7 @@ The package is released [here](https://github.com/TobseF/HelloMaven/packages).
 You can find more info for Package Registry in the official GitHub doc:  
 📚 [Configuring Apache Maven for use with GitHub Package Registry](https://help.github.com/en/articles/configuring-apache-maven-for-use-with-github-package-registry)
 
-There is also an [🔖 Example Project](https://github.com/TobseF/acces-plugin-registry-example) which shows how to add this dependency in maven project. 
+There is also an [🔖 Example Project](https://github.com/TobseF/github-plugin-registry-example) which shows how to add this dependency in maven project. 
 
 ## Add dependency
 To include this sample dependency in you project you have to do two things:
